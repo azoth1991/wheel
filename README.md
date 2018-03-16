@@ -8,3 +8,10 @@ https://github.com/azoth1991/react-slider
 + react生命周期
 + 简单的高阶组件
 + css动画
+
+# react 缓存组件
+https://github.com/azoth1991/componentCache
+难度 2星
+## 知识点
++ react高阶组件
++ sessionStorage使用
